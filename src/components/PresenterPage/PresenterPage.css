@@ -1,0 +1,54 @@
+.presenter__section {
+    padding: 40px 15px;
+}
+
+.presenter__top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+}
+
+.presenter__top-box{
+    display: flex;
+}
+
+.presenter__descr-top {
+    margin-right: 20px;
+}
+
+
+.presenter__score-counter{
+    display: flex;
+    justify-content: space-around;
+    width: 80px;
+}
+
+.presenter__digit {
+    font-weight: 500;
+}
+
+
+
+.presenter__middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.presenter__text {
+    font-size: 28px;
+}
+
+.presenter__footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.presenter__footer-wrapper{
+    display: flex;
+    gap: 20px;
+}
+
+

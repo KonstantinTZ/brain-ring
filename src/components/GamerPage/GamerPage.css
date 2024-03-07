@@ -1,0 +1,17 @@
+.section__gamer-page {
+    height: 100vh;
+}
+
+.gamer-page__container{
+padding-top: 20px;
+}
+
+.gamer-page__descr {
+    width: 70%;
+    margin-bottom: 40px;
+}
+
+.gamer-page__btn {
+    margin-top: auto;
+}
+

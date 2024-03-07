@@ -1,0 +1,29 @@
+.router-page__center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
+.section__router-page {
+    padding: 40px 15px;
+}
+
+.router-page__button-top {
+    width: 400px;
+}
+
+.router-page__box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.router-page__box-team-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
