@@ -1,0 +1,27 @@
+.scoreboard__section {
+    padding: 40px 15px;
+}
+
+.scoreboard__top{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+    
+}
+
+.scoreboard__digit {
+    font-size: 50px;
+}
+
+.scoreboard__bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scoreboard__text {
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+}
+

@@ -1,0 +1,14 @@
+.card-body__question{
+    margin: 0;
+    font-size: 20px;
+}
+
+.card-body__answer{
+    margin: 0;
+}
+
+.card-body__wrapper--buttons{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+}
