@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brain-ring/static/css/main.932656a7.css",
+    "main.js": "/brain-ring/static/js/main.ef906023.js",
+    "index.html": "/brain-ring/index.html",
+    "main.932656a7.css.map": "/brain-ring/static/css/main.932656a7.css.map",
+    "main.ef906023.js.map": "/brain-ring/static/js/main.ef906023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.932656a7.css",
+    "static/js/main.ef906023.js"
+  ]
+}
